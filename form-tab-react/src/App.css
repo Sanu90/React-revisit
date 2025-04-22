@@ -54,7 +54,7 @@
 .tab-body{
   display: flex;
   border: 1px solid black;
-  height:250px;
+  height:100px;
   width: 500px;
   padding: 5px;
 }
